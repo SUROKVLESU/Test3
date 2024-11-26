@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNITY_NEXT_SUROK_001\\Test3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\1\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\1\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\1\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\1\\myscriptableobject\\arrayresourcesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1\\myscriptableobject\\arrayresourcesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\1\\myscriptableobject\\arrayresourceprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1\\myscriptableobject\\arrayresourceprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\1\\find\\find_startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1\\find\\find_startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\1\\find\\find_shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1\\find\\find_shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\1\\enum\\enumwhoseresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1\\enum\\enumwhoseresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\1\\enum\\enumtyperesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1\\enum\\enumtyperesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\1\\controllers\\fillinginresourcescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1\\controllers\\fillinginresourcescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\1\\button\\resourceinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1\\button\\resourceinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\1\\button\\button_shopsell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1\\button\\button_shopsell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\1\\button\\button_shopboy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1\\button\\button_shopboy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\1\\button\\button_shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1\\button\\button_shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\1\\array\\resourcesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1\\array\\resourcesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\1\\array\\resourceprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1\\array\\resourceprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|c:\\unity_next_surok_001\\test3\\assets\\scripts\\2\\mytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\2\\mytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\2\\myreaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\2\\myreaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\2\\ipathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\2\\ipathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|C:\\UNITY_NEXT_SUROK_001\\Test3\\assets\\scripts\\2\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41F8A00-EB96-12E4-9B2C-D5A4DD892212}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\2\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyTest.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\2\\MyTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\2\\MyTest.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\2\\MyTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\2\\MyTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:10:43.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyReaction.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\2\\MyReaction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\2\\MyReaction.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\2\\MyReaction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\2\\MyReaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:06:15.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\2\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\2\\Rectangle.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\2\\Rectangle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\2\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:59:20.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edge.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\2\\Edge.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\2\\Edge.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\2\\Edge.cs",
+              "RelativeToolTip": "Assets\\Scripts\\2\\Edge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:57:54.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPathFinder.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\2\\IPathFinder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\2\\IPathFinder.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\2\\IPathFinder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\2\\IPathFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:51:49.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Button_ShopSell.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Button\\Button_ShopSell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1\\Button\\Button_ShopSell.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Button\\Button_ShopSell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1\\Button\\Button_ShopSell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:44:49.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Button_ShopBoy.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Button\\Button_ShopBoy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1\\Button\\Button_ShopBoy.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Button\\Button_ShopBoy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1\\Button\\Button_ShopBoy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:44:29.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnumWhoseResource.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Enum\\EnumWhoseResource.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1\\Enum\\EnumWhoseResource.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Enum\\EnumWhoseResource.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1\\Enum\\EnumWhoseResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:40:27.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResourceInventory.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Button\\ResourceInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1\\Button\\ResourceInventory.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Button\\ResourceInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1\\Button\\ResourceInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:20:14.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAuwGwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:30:34.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnumTypeResource.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Enum\\EnumTypeResource.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1\\Enum\\EnumTypeResource.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Enum\\EnumTypeResource.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1\\Enum\\EnumTypeResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:24:59.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Find_StartMenu.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Find\\Find_StartMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1\\Find\\Find_StartMenu.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Find\\Find_StartMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1\\Find\\Find_StartMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:15:59.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Find_Shop.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Find\\Find_Shop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1\\Find\\Find_Shop.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Find\\Find_Shop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1\\Find\\Find_Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:07:04.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FillingInResourcesController.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Controllers\\FillingInResourcesController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1\\Controllers\\FillingInResourcesController.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Controllers\\FillingInResourcesController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1\\Controllers\\FillingInResourcesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:28:49.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1\\GameController.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:21:38.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArrayResourcePrice.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\MyScriptableObject\\ArrayResourcePrice.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1\\MyScriptableObject\\ArrayResourcePrice.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\MyScriptableObject\\ArrayResourcePrice.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1\\MyScriptableObject\\ArrayResourcePrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:14:38.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResourcePrice.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Array\\ResourcePrice.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1\\Array\\ResourcePrice.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Array\\ResourcePrice.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1\\Array\\ResourcePrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:12:51.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayResourceSprite.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\MyScriptableObject\\ArrayResourceSprite.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1\\MyScriptableObject\\ArrayResourceSprite.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\MyScriptableObject\\ArrayResourceSprite.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1\\MyScriptableObject\\ArrayResourceSprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:44:27.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResourceSprite.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Array\\ResourceSprite.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1\\Array\\ResourceSprite.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Array\\ResourceSprite.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1\\Array\\ResourceSprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:40:14.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1\\GameManager.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:23:08.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Button_Shop.cs",
+              "DocumentMoniker": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Button\\Button_Shop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1\\Button\\Button_Shop.cs",
+              "ToolTip": "C:\\UNITY_NEXT_SUROK_001\\Test3\\Assets\\Scripts\\1\\Button\\Button_Shop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1\\Button\\Button_Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:22:08.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
